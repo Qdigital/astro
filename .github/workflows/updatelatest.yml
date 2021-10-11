@@ -18,9 +18,6 @@ jobs:
       - name: checkout git branch
         uses: actions/checkout@v2
 
-      - name: Install all dependencies
-        run: yarn
-      
       - name: check modified files
         run: npx changeset status --output ./status.json
 
