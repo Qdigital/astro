@@ -12,7 +12,7 @@
     "astro": "^0.20.9"
   },
   "dependencies": {
-    "nanostores": "^0.3.3"
+    "nanostores": "^0.5.8"
   },
   "snowpack": {
     "workspaceRoot": "../.."
