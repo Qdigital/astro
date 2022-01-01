@@ -68,7 +68,7 @@
     "ci-info": "^3.2.0",
     "del": "^6.0.0",
     "es-module-lexer": "^0.4.1",
-    "esbuild": "^0.12.12",
+    "esbuild": "^0.14.2",
     "estree-util-value-to-estree": "^1.2.0",
     "estree-walker": "^3.0.0",
     "fast-xml-parser": "^3.19.0",
