@@ -16,7 +16,7 @@
     "server-shim.js"
   ],
   "dependencies": {
-    "@lit-labs/ssr": "^1.0.0",
+    "@lit-labs/ssr": "^2.2.2",
     "@webcomponents/template-shadowroot": "^0.1.0",
     "lit": "^2.0.0"
   }
