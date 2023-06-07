@@ -71,7 +71,7 @@
     "esbuild": "^0.12.12",
     "estree-util-value-to-estree": "^1.2.0",
     "estree-walker": "^3.0.0",
-    "fast-xml-parser": "^3.19.0",
+    "fast-xml-parser": "^4.2.4",
     "fdir": "^5.0.0",
     "find-up": "^5.0.0",
     "get-port": "^5.1.1",
